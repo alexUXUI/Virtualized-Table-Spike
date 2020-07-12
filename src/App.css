@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.table-row {
+
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+}
+
+.ReactVirtualized__Table__headerRow {
+  
+}
